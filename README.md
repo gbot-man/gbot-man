@@ -38,7 +38,7 @@
 
 ## 🌐 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/adeen-oluwagbotemi)
-- ✍️ [Medium](https://medium.com/@gbotman) *(or blog if available)*
+- ✍️ [Medium](https://medium.com/@gbotman)
 - 🐦 [Twitter](https://twitter.com/gbot_man)
 - 📫 Email: adeenolugbo@gmail.com
 
