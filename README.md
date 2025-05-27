@@ -30,7 +30,7 @@
 
 ## 🧰 Tech Stack & Tools
 **Product/PM**: Jira • Notion • Trello • Miro • Confluence  
-**Dev**: HTML • CSS • JavaScript • Vue.js • Laravel • Python  
+**Dev**: HTML • CSS • Python  
 **DevOps**: Azure • Terraform • GitHub Actions  
 **Design**: Figma • Canva • Draw.io
 
