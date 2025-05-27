@@ -24,7 +24,7 @@
 
 ## 📚 Featured Articles
 - [🚚 Building Meaningful Products: My Journey in Product Management](https://gbotman.medium.com/building-meaningful-products-my-journey-in-product-management-a038ee99ad4f)
-- [📄 Banger with 3 sounds]((https://medium.com/@gbotman/banger-with-3-sounds-530ef19cf410))
+- [📄 Banger with 3 sounds](https://medium.com/@gbotman/banger-with-3-sounds-530ef19cf410)
 
 ---
 
