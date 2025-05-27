@@ -46,3 +46,6 @@
 
 ⭐️ *"Driven by impact, powered by creativity, and focused on users."*
 ![Oluwagbotemi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gbot-man&show_icons=true&theme=default)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=gbot-man&show_icons=true&theme=tokyonight)
+
