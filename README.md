@@ -23,8 +23,8 @@
 ---
 
 ## 📚 Featured Articles
-- [📄 My CAP Journey – Lessons from Caux Artists Program](#)
-- [🚚 Designing a Scalable Errands Module for Logistics Apps](#)
+- [🚚 Building Meaningful Products: My Journey in Product Management](https://gbotman.medium.com/building-meaningful-products-my-journey-in-product-management-a038ee99ad4f)
+- [📄 Banger with 3 sounds]((https://medium.com/@gbotman/banger-with-3-sounds-530ef19cf410))
 
 ---
 
@@ -37,15 +37,13 @@
 ---
 
 ## 🌐 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/oluwagbotemi)
-- ✍️ [Medium](https://medium.com/@oluwagbotemi) *(or blog if available)*
-- 🐦 [Twitter](https://twitter.com/oluwagbotemi)
-- 📫 Email: oluwagbotemi@example.com
+- 💼 [LinkedIn](https://linkedin.com/in/adeen-oluwagbotemi)
+- ✍️ [Medium](https://medium.com/@gbotman) *(or blog if available)*
+- 🐦 [Twitter](https://twitter.com/gbot_man)
+- 📫 Email: adeenolugbo@gmail.com
 
 ---
 
 ⭐️ *"Driven by impact, powered by creativity, and focused on users."*
-![Oluwagbotemi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gbot-man&show_icons=true&theme=default)
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=gbot-man&show_icons=true&theme=tokyonight)
 
