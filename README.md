@@ -16,9 +16,10 @@
 ---
 
 ## 📈 Experience
-- **Product Manager** @ Glimpse 33 Media (Kominiti, Afrikobo, GoChaCha)
+- **Product Manager** @ Glimpse 33 Media ([Kominiti](https://www.kominiti.com), [Afrikobo](https://afrikobo.com), [GoChaCha](https://www.gochacha.ng))
 - **Project Manager** @ Buildex UAE
 - **Project Planner** @ Cycleway Core International
+- **Partner** @ [Dingcar](https://www.dingcar.ng)
 
 ---
 
